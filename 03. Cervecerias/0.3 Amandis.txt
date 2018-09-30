@@ -1,0 +1,14 @@
+Lunes: Toda la noche Happy Hour 
+Martes: Toda la noche. Happy Hour
+Miércoles: Toda la noche Happy Hour
+Jueves: Hasta las 22hs Happy Hour
+Viernes: Hasta las 22hs Happy Hour
+Sabados: Hasta las 22 hs. Happy Hour 
+Domingos: Toda la noche Happy Hour
+
+
+Toda la noche Happy Hour (Domingos a Miércoles)
+
+Hasta las 22 hs. Happy Hour (Jueves a Sábados)
+
+
